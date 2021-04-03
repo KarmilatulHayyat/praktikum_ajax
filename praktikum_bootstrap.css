@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(50, 72, 92);
+}
+
+.hero-banner{
+    background-image: url("http://www.foreignpixel.com/wp-content/uploads/galleries/post-2352/full/sunsetbay.jpg");
+    background-size: cover;
+}
