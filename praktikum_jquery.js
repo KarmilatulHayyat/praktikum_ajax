@@ -17,7 +17,7 @@ $("#show").on("click",function(){
 });
 
 $("#toggle").on("click",function(){
-    $("#image").toggle();
+    $("#nama").toggle();
 });
 
 $("fadeIn").on("click",function(){
@@ -33,14 +33,13 @@ $("#fadeToggle").on("click",function(){
 });
 
 $("#slideUp").on("click",function(){
-    $("#image").slideUp();
-
+    $("#img").slideUp();
 });
 
 $("#slideDown").on("click",function(){
     $("#img").slideDown();
 });
 
-$("#slideToggle").on("click",function image() {
-    $('#image').slideToggle();   
+$("#slideToggle").on("click",function(){
+    $("#img").slideToggle();
 });
